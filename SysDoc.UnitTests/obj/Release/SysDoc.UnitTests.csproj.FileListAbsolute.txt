@@ -1,8 +1,0 @@
-C:\Projects\SysDoc\SysDoc.UnitTests\bin\Release\SysDoc.UnitTests.dll
-C:\Projects\SysDoc\SysDoc.UnitTests\bin\Release\SysDoc.UnitTests.pdb
-C:\Projects\SysDoc\SysDoc.UnitTests\obj\Release\ResolveAssemblyReference.cache
-C:\Projects\SysDoc\SysDoc.UnitTests\obj\Release\SysDoc.UnitTests.dll
-C:\Projects\SysDoc\SysDoc.UnitTests\obj\Release\SysDoc.UnitTests.pdb
-C:\Projects\SysDoc\SysDoc.UnitTests\bin\Release\NSpec.dll
-C:\Projects\SysDoc\SysDoc.UnitTests\bin\Release\SysDoc.dll
-C:\Projects\SysDoc\SysDoc.UnitTests\bin\Release\SysDoc.pdb
