@@ -58,6 +58,7 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Integration\mstest\describe_nodes\when_getting_a_node.cs" />
     <Compile Include="Integration\mstest\describe_nodes\when_adding_a_node.cs" />
     <Compile Include="Integration\nspec\describe_nodes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
