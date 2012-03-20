@@ -1,0 +1,9 @@
+C:\Projects\SysDoc\SysDoc\bin\Debug\SysDoc.dll
+C:\Projects\SysDoc\SysDoc\bin\Debug\SysDoc.pdb
+C:\Projects\SysDoc\SysDoc\bin\Debug\Iesi.Collections.dll
+C:\Projects\SysDoc\SysDoc\bin\Debug\NHibernate.dll
+C:\Projects\SysDoc\SysDoc\bin\Debug\Iesi.Collections.xml
+C:\Projects\SysDoc\SysDoc\bin\Debug\NHibernate.xml
+C:\Projects\SysDoc\SysDoc\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SysDoc\SysDoc\obj\Debug\SysDoc.dll
+C:\Projects\SysDoc\SysDoc\obj\Debug\SysDoc.pdb

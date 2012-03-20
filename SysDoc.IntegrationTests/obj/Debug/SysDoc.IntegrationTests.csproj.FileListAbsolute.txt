@@ -1,0 +1,13 @@
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\hibernate.cfg.xml
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\SysDoc.IntegrationTests.dll
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\SysDoc.IntegrationTests.pdb
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\Iesi.Collections.dll
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\NHibernate.dll
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\SysDoc.dll
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\System.Data.SqlServerCe.dll
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\SysDoc.pdb
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\Iesi.Collections.xml
+C:\Projects\SysDoc\SysDoc.IntegrationTests\bin\Debug\NHibernate.xml
+C:\Projects\SysDoc\SysDoc.IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SysDoc\SysDoc.IntegrationTests\obj\Debug\SysDoc.IntegrationTests.dll
+C:\Projects\SysDoc\SysDoc.IntegrationTests\obj\Debug\SysDoc.IntegrationTests.pdb

@@ -1,9 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Web Developer Express 2010
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysDoc", "SysDoc\SysDoc.csproj", "{D99E9960-5533-440C-901A-4CD41208E2C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysDoc.UnitTests", "SysDoc.UnitTests\SysDoc.UnitTests.csproj", "{7901C507-1B5F-4605-95A1-5D58010AB92E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysDoc.IntegrationTests", "SysDoc.IntegrationTests\SysDoc.IntegrationTests.csproj", "{04D37857-D090-4900-90BB-9A81BEF83FBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D57A20A-D8E1-46B0-834A-74FFCA7692DF}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SysDoc.vsmdi = SysDoc.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SysDoc.vsmdi
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -13,6 +27,14 @@ Global
 		{D99E9960-5533-440C-901A-4CD41208E2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D99E9960-5533-440C-901A-4CD41208E2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D99E9960-5533-440C-901A-4CD41208E2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7901C507-1B5F-4605-95A1-5D58010AB92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7901C507-1B5F-4605-95A1-5D58010AB92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7901C507-1B5F-4605-95A1-5D58010AB92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7901C507-1B5F-4605-95A1-5D58010AB92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D37857-D090-4900-90BB-9A81BEF83FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D37857-D090-4900-90BB-9A81BEF83FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D37857-D090-4900-90BB-9A81BEF83FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D37857-D090-4900-90BB-9A81BEF83FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
