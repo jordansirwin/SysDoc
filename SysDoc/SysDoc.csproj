@@ -65,6 +65,7 @@
     <Compile Include="Core\INodeRepository.cs" />
     <Compile Include="Core\IManageNodeService.cs" />
     <Compile Include="Models\Node.cs" />
+    <Compile Include="Models\ValidationResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\NHibernateHelper.cs" />
     <Compile Include="Repositories\NodeRepository.cs" />

@@ -7,7 +7,7 @@ namespace SysDoc.Repositories
 {
     public class NodeRepository : Core.INodeRepository
     {
-        public void Add(Models.Node node)
+        public Models.Node Add(Models.Node node)
         {
             using(var session = NHibernateHelper.OpenSession())
             using (var trans = session.BeginTransaction())
@@ -15,6 +15,8 @@ namespace SysDoc.Repositories
                 session.Save(node);
                 trans.Commit();
             }
+
+            return node;
         }
 
         public Models.Node Get(int id)

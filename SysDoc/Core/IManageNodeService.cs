@@ -1,7 +1,10 @@
-﻿namespace SysDoc.Services
+﻿using SysDoc.Models;
+namespace SysDoc.Services
 {
     public interface IManageNodeService
     {
-         void LinkNodes(int dependentNodeId, int dependencyNodeId);
+        ValidationResult<Node> Validate(Node node);
+        void AddNode(Node node);
+        void LinkNodes(int dependentNodeId, int dependencyNodeId);
     }
 }

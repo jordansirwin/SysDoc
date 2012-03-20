@@ -10,7 +10,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Data.SqlServerCe;
 using SysDoc.Repositories;
 
-namespace SysDoc.IntegrationTests
+namespace SysDoc.IntegrationTests.Tests
 {
     [TestClass]
     public class node_repository_can
